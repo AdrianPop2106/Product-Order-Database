@@ -1,0 +1,8 @@
+Order#1
+From:Peperridge Farms
+To:Dumitru Petrovan
+Address:Bd. Bucuresti nr 5
+Customer Bank:ING
+Phone number:0745154333
+Product:Lemon X 5
+Total:15
